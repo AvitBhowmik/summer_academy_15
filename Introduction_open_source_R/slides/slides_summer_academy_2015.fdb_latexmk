@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1441744871 "slides_summer_academy_2015.tex" "slides_summer_academy_2015.pdf" "slides_summer_academy_2015" 1441744884
+["pdflatex"] 1441746153 "slides_summer_academy_2015.tex" "slides_summer_academy_2015.pdf" "slides_summer_academy_2015" 1441746164
   "/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii" 1337017135 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/atbegshi.sty" 1335995445 24460 92f559a71aac869021852c227c704b38 ""
@@ -156,16 +156,16 @@
   "Figures/homework.png" 1441743026 39086 19772e743e415612407ea310cc82dc4c ""
   "Figures/op_vs_prp.png" 1441712752 158143 dee58cead9b79b8173b8edebab83d6ab ""
   "Figures/whyR.png" 1441735357 139591 0310b39a427cc7a1133e1d70ed62da3d ""
-  "slides_summer_academy_2015.aux" 1441744883 4662 76d9810c51f10014c4fd64ec9451beea ""
-  "slides_summer_academy_2015.nav" 1441744883 2826 33dc17e57e1f6e380b273bf3b2224387 ""
-  "slides_summer_academy_2015.out" 1441744875 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "slides_summer_academy_2015.tex" 1441744852 12760 0360d9110f54a8d239e109c7be4f5284 ""
-  "slides_summer_academy_2015.vrb" 1441744881 249 139f2b34b277cf34f4f1905f69855103 ""
+  "slides_summer_academy_2015.aux" 1441746164 4662 76d9810c51f10014c4fd64ec9451beea ""
+  "slides_summer_academy_2015.nav" 1441746164 2826 33dc17e57e1f6e380b273bf3b2224387 ""
+  "slides_summer_academy_2015.out" 1441746156 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "slides_summer_academy_2015.tex" 1441746152 12985 d9af72b647a08c4c6af4e4a976f566e3 ""
+  "slides_summer_academy_2015.vrb" 1441746162 249 139f2b34b277cf34f4f1905f69855103 ""
   (generated)
-  "slides_summer_academy_2015.vrb"
+  "slides_summer_academy_2015.nav"
   "slides_summer_academy_2015.toc"
   "slides_summer_academy_2015.pdf"
-  "slides_summer_academy_2015.nav"
   "slides_summer_academy_2015.log"
   "slides_summer_academy_2015.aux"
   "slides_summer_academy_2015.out"
+  "slides_summer_academy_2015.vrb"
