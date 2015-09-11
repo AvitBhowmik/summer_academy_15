@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1441804079 "/Users/avit/PhD/Teaching/Summer_Academy/2015/summer_academy_15/Introduction_open_source_R/slides/slides_summer_academy_2015.tex" "Output/slides_summer_academy_2015.pdf" "slides_summer_academy_2015" 1441804083
-  "/Users/avit/PhD/Teaching/Summer_Academy/2015/summer_academy_15/Introduction_open_source_R/slides/slides_summer_academy_2015.tex" 1441804067 13016 1a30eaef07468ef564df8ec19c24051e ""
+["pdflatex"] 1441964564 "/Users/avit/PhD/Teaching/Summer_Academy/2015/summer_academy_15/Introduction_open_source_R/slides/slides_summer_academy_2015.tex" "Output/slides_summer_academy_2015.pdf" "slides_summer_academy_2015" 1441964570
+  "/Users/avit/PhD/Teaching/Summer_Academy/2015/summer_academy_15/Introduction_open_source_R/slides/slides_summer_academy_2015.tex" 1441964560 13016 1a30eaef07468ef564df8ec19c24051e ""
   "/usr/local/texlive/2014/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -196,16 +196,16 @@
   "Figures/homework.png" 1441790619 39086 19772e743e415612407ea310cc82dc4c ""
   "Figures/op_vs_prp.png" 1441790619 158143 dee58cead9b79b8173b8edebab83d6ab ""
   "Figures/whyR.png" 1441790619 139591 0310b39a427cc7a1133e1d70ed62da3d ""
-  "Output/slides_summer_academy_2015.aux" 1441804083 4662 76d9810c51f10014c4fd64ec9451beea ""
-  "Output/slides_summer_academy_2015.nav" 1441804083 2826 33dc17e57e1f6e380b273bf3b2224387 ""
-  "Output/slides_summer_academy_2015.out" 1441804080 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "slides_summer_academy_2015.tex" 1441804067 13016 1a30eaef07468ef564df8ec19c24051e ""
+  "Output/slides_summer_academy_2015.aux" 1441964570 4662 76d9810c51f10014c4fd64ec9451beea ""
+  "Output/slides_summer_academy_2015.nav" 1441964570 2826 33dc17e57e1f6e380b273bf3b2224387 ""
+  "Output/slides_summer_academy_2015.out" 1441964566 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "slides_summer_academy_2015.tex" 1441964560 13016 1a30eaef07468ef564df8ec19c24051e ""
   (generated)
+  "Output/slides_summer_academy_2015.out"
+  "Output/slides_summer_academy_2015.log"
   "Output/slides_summer_academy_2015.snm"
   "Output/slides_summer_academy_2015.toc"
-  "Output/slides_summer_academy_2015.pdf"
-  "Output/slides_summer_academy_2015.nav"
   "Output/slides_summer_academy_2015.vrb"
+  "Output/slides_summer_academy_2015.nav"
   "Output/slides_summer_academy_2015.aux"
-  "Output/slides_summer_academy_2015.log"
-  "Output/slides_summer_academy_2015.out"
+  "Output/slides_summer_academy_2015.pdf"
