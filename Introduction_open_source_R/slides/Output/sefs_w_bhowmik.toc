@@ -1,5 +1,0 @@
-\beamer@endinputifotherversion {3.33pt}
-\beamer@sectionintoc {1}{Endogenous}{11}{0}{1}
-\beamer@subsectionintoc {1}{1}{caused by biotic processes, e.g. dispersal}{11}{0}{1}
-\beamer@sectionintoc {2}{Exogenous}{11}{0}{2}
-\beamer@subsectionintoc {2}{1}{caused by functional dependence on spatially autocorrelated drivers, e.g. climate}{11}{0}{2}
